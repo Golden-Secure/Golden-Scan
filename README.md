@@ -57,7 +57,7 @@ A modern security tool that uses the VirusTotal API to scan and detect threats w
 
 3. Run the application:
    ```bash
-   python golden_scan.py
+   python Golden-Scan.py
    ```
 
 ## Configuration
