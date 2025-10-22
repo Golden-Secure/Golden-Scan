@@ -70,6 +70,7 @@ A modern security tool that uses the VirusTotal API to scan and detect threats w
 ### Input File
 
 Golden-Scan reads file paths from an input file (default: `processes.txt`). The application will create a sample input file if one doesn't exist. Each line should contain a file path you must use (procexp) and just save all processes as txt processes.txt :
+procexp you can download from here : https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
 
 ```
 ex : 
