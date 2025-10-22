@@ -46,7 +46,7 @@ A modern security tool that uses the VirusTotal API to scan and detect threats w
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/yourusername/golden-scan.git
+   git clone https://github.com/Golden-Secure/golden-scan.git
    cd golden-scan
    ```
 
@@ -66,19 +66,15 @@ A modern security tool that uses the VirusTotal API to scan and detect threats w
 
 1. Obtain a free VirusTotal API key from [virustotal.com](https://www.virustotal.com/gui/join-us)
 2. When you first run Golden-Scan, you'll be prompted to enter your API key
-3. Alternatively, you can set it as an environment variable:
-   ```bash
-   export VIRUSTOTAL_API_KEY="your_api_key_here"
-   ```
 
 ### Input File
 
-Golden-Scan reads file paths from an input file (default: `processes.txt`). The application will create a sample input file if one doesn't exist. Each line should contain a file path:
+Golden-Scan reads file paths from an input file (default: `processes.txt`). The application will create a sample input file if one doesn't exist. Each line should contain a file path you must use (procexp) and just save all processes as txt processes.txt :
 
 ```
-C:\Windows\System32\notepad.exe
-C:\Windows\System32\calc.exe
-C:\Windows\System32\cmd.exe
+ex : 
+  svchost.exe	< 0.01	11,884 K	39,904 K	1372	Host Process for Windows Services	Microsoft Corporation	C:\Windows\System32\svchost.exe		0
+   WmiPrvSE.exe		3,200 K	12,988 K	6008	WMI Provider Host	Microsoft Corporation	C:\Windows\System32\wbem\WmiPrvSE.exe		0C:\Windows\System32\notepad.exe
 ```
 
 ### Settings
