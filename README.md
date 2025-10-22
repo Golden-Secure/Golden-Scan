@@ -1,6 +1,8 @@
 # Golden-Scan - Professional VirusTotal Scanner
 
-![Golden-Scan Logo](https://i.ibb.co/3mVJs8ZD/Golden-Scan.png)
+<p align="center">
+  <img src="https://i.ibb.co/3mVJs8ZD/Golden-Scan.png" alt="Golden-Scan Logo" width="200">
+</p>
 
 A cutting-edge security scanning tool that integrates with the VirusTotal API to analyze files for potential threats with a modern, professional interface.
 
