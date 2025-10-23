@@ -168,15 +168,15 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## Screem
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Golden-Secure/Golden-Scan/refs/heads/main/scr1.png" alt="Golden-Scan Logo" width="600"/>
+  <img src="https://raw.githubusercontent.com/Golden-Secure/Golden-Scan/refs/heads/main/scr1.png" alt="Golden-Scan Logo" width="750"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Golden-Secure/Golden-Scan/refs/heads/main/scr2.png" alt="Golden-Scan Logo" width="600"/>
+  <img src="https://raw.githubusercontent.com/Golden-Secure/Golden-Scan/refs/heads/main/scr2.png" alt="Golden-Scan Logo" width="750"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Golden-Secure/Golden-Scan/refs/heads/main/scr3.png" alt="Golden-Scan Logo" width="600"/>
+  <img src="https://raw.githubusercontent.com/Golden-Secure/Golden-Scan/refs/heads/main/scr3.png" alt="Golden-Scan Logo" width="750"/>
 </div>
 
 ## Author
