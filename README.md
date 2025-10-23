@@ -35,12 +35,12 @@ A modern security tool that uses the VirusTotal API to scan and detect threats w
 ## Requirements
 
 - Python 3.7 or higher
-- VirusTotal API key (free from [virustotal.com](https://www.virustotal.com/gui/join-us))
+- VirusTotal API key (free or paid from [virustotal.com](https://www.virustotal.com/gui/join-us))
 - Required Python packages:
-  - tkinter (usually included with Python)
+  - tkinter 
   - requests
   - jinja2
-  - pefile (optional, for PE file analysis)
+  - pefile 
 
 ## Installation
 
@@ -64,8 +64,8 @@ A modern security tool that uses the VirusTotal API to scan and detect threats w
 
 ### API Key Setup
 
-1. Obtain a free VirusTotal API key from [virustotal.com](https://www.virustotal.com/gui/join-us)
-2. When you first run Golden-Scan, you'll be prompted to enter your API key
+1. Obtain a free or paid VirusTotal API key from [virustotal.com](https://www.virustotal.com/gui/join-us)
+2. When you first run Golden-Scan, you'll be prompted to enter your API key from VirusTotal
 
 ### Input File
 
@@ -73,7 +73,7 @@ Golden-Scan reads file paths from an input file (default: `processes.txt`). The 
 procexp you can download from here : https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
 
 ```
-ex : 
+ex for txt file : 
   svchost.exe	< 0.01	11,884 K	39,904 K	1372	Host Process for Windows Services	Microsoft Corporation	C:\Windows\System32\svchost.exe		0
    WmiPrvSE.exe		3,200 K	12,988 K	6008	WMI Provider Host	Microsoft Corporation	C:\Windows\System32\wbem\WmiPrvSE.exe		0C:\Windows\System32\notepad.exe
 ```
