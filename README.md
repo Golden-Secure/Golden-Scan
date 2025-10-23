@@ -179,6 +179,10 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
   <img src="https://raw.githubusercontent.com/Golden-Secure/Golden-Scan/refs/heads/main/scr3.png" alt="Golden-Scan Logo" width="750"/>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Golden-Secure/Golden-Scan/refs/heads/main/scr4.png" alt="Golden-Scan Logo" width="750"/>
+</div>
+
 ## Author
 
 Mohamed A Jaber  
