@@ -4,7 +4,7 @@
   <img src="https://i.ibb.co/3mVJs8ZD/Golden-Scan.png" alt="Golden-Scan Logo" width="350"/>
 </div>
 
-A modern security tool that uses the VirusTotal API to scan and detect threats with a clean, professional interface.
+A modern security tool that uses the VirusTotal API to scan and detect threats with , professional interface.
 
 ## Table of Contents
 
