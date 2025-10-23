@@ -1,7 +1,7 @@
 # Golden-Scan - Professional VirusTotal Scanner
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Golden-Secure/Golden-Scan/refs/heads/main/glogo.png" alt="Golden-Scan Logo" width="350"/>
+  <img src="https://i.ibb.co/3mVJs8ZD/Golden-Scan.png" alt="Golden-Scan Logo" width="350"/>
 </div>
 
 A modern security tool that uses the VirusTotal API to scan and detect threats with , professional interface.
